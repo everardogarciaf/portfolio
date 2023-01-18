@@ -1,2 +1,2 @@
 # portfolio
-A small collection of previous projects
+A collection of Everardo's projects
